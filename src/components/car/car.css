@@ -1,0 +1,14 @@
+.form-content {
+  display: flex;
+  justify-content: space-around;
+}
+
+.car-content {
+  width: 100%;
+  margin-top: 30px;
+}
+
+.car-content h1{
+  text-align: center;
+  color: antiquewhite;
+}

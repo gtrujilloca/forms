@@ -1,11 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import Car from './components/car/Car';
+import Driver from './components/driver/Driver'
 import './index.css';
-import App from './App';
 
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+    <div >
+      <Car />
+      <Driver />
+    </div>,
   document.getElementById('root')
 );

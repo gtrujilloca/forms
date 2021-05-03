@@ -1,0 +1,13 @@
+.driver-content {
+  width: 100%;
+}
+
+.driver-content h1{
+  text-align: center;
+  color: antiquewhite;
+}
+
+.form-content {
+  display: flex;
+  justify-content: space-around;
+}
